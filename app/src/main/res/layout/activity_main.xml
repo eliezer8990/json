@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button_port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/oppcion_1a"
+        android:onClick="abrirportatiles"/>
+
+    <Button
+        android:id="@+id/button_eq_desk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/oppcion_2a"
+        android:onClick="abrirdesk"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/button_scann"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/oppcion_3a"
+        android:onClick="abriresca"
+        android:visibility="gone"/>
+</LinearLayout>

@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">IFDT P.C.</string>
+    <string name="oppcion_1a">Portatiles</string>
+    <string name="oppcion_2a">Equipos de Escritorio</string>
+    <string name="oppcion_3a">Escanner</string>
+    <string-array name="Categ">
+        <item>COMPUTADORA PORTATIL</item>
+        <item>ESTACION DE TRABAJO PORTATIL</item>
+        <item>TABLETA</item>
+    </string-array>
+    <string-array name="Procesador">
+        <item>AMD E2–9000E 1.50 GHz</item>
+        <item>INTEL CELERON N3060 1.60 GHz</item>
+        <item>INTEL CORE I3–6006U 2.00 GHz</item>
+        <item>AMD A9–9420 3.00 GHz</item>
+        <item>INTEL CORE I5–7200U 2.50 GHz</item>
+        <item>INTEL CORE I7–7500U 2.70 GHz</item>
+        <item>INTEL CORE I5–8250 1.60 GHz</item>
+        <item>INTEL CORE I3–7100U 3.90 GHz</item>
+        <item>AMD A8–9600B 2.40 GHz</item>
+        <item>INTEL CORE I5–6200U 2.30 GHz</item>
+        <item>INTEL CORE I7–8550 1.80 GHz</item>
+        <item>AMD A12 PRO-9800B 2.70 GHz</item>
+        <item>APU AMD PRO A12–9800B 2.10GHz</item>
+        <item>INTEL CORE I5–5200U 2.20 GHz</item>
+        <item>AMD A12 PRO-8830B 2.50 GHz</item>
+        <item>INTEL CORE I7–7820HQ 2.90 GHz</item>
+        <item>INTEL CORE I7–7600U 2.80 GHz</item>
+        <item>INTEL CORE I5–6300U 2.40 GHz</item>
+        <item>INTEL CORE I5–7Y54 1.20 GHz</item>
+        <item>INTEL CORE I5–7300U 2.60 GHz</item>
+        <item>INTEL CORE I7–6500U 2.50 GHz</item>
+        <item>INTEL CORE I7–6600U 2.60 GHz</item>
+        <item>INTEL CORE I5–7300HQ 2.50 GHz</item>
+        <item>INTEL CORE I7–7Y75 1.30 GHz</item>
+        <item>INTEL CORE I7–7700HQ 2.80 GHz</item>
+        <item>INTEL CORE I7–6700HQ 2.60 GHz</item>
+        <item>INTEL XEON E3–1505M V6 3.00 GHz</item>
+        <item>INTEL XEON E3–1535M V6 3.10 GHz</item>
+        <item>INTEL CORE I7–6820HQ 2.70 GHz</item>
+        <item>MT8735B, 64 Bits Quad Core 1.1 GHZ</item>
+    </string-array>
+    <string-array name="Ram">
+        <item>4 GB DDR4 1866 233 MHz</item>
+        <item>6 GB DDR3L 1600 200 MHz</item>
+        <item>4 GB DDR3L 1600 200 MHz</item>
+        <item>4 GB DDR4 2133 266 MHz</item>
+        <item>8 GB DDR4 1866 233 MHz</item>
+        <item>8 GB DDR4 2133 266 MHz</item>
+        <item>8 GB DDR3L 1600 200 MHz</item>
+        <item>4 GB DDR4 2400 300 MHz</item>
+        <item>8 GB DDR4 2400 300 MHz</item>
+        <item>8 GB DDR3 1600 200 MHz</item>
+        <item>16 GB DDR4 2400 300 MHz</item>
+        <item>16 GB DDR4 1866 233 MHz</item>
+        <item>16 GB DDR4 2133 266 MHz</item>
+        <item>8 GB LPDDR3 1866 233 MHz</item>
+        <item>16 GB LPDDR3 1866 233 MHz</item>
+        <item>32 GB DDR4 2400 300 MHz</item>
+        <item>2 GB LPDDR3 800 100 MHz</item>
+    </string-array>
+    <string-array name="Almacenamiento">
+        <item>500 GB HDD 7200 RPM</item>
+        <item>1 TB HDD 5400 RPM</item>
+        <item>500 GB HDD 5400 RPM</item>
+        <item>1 TB HDD 7200 RPM</item>
+        <item>512 GB SSD</item>
+        <item>256 GB SSD</item>
+        <item>1 TB SSD</item>
+        <item>256 GB SSD/1 TB HDD 7200 RPM</item>
+        <item>16 GB SSD</item>
+
+    </string-array>
+
+    <string-array name="Pantalla">
+        <item>LED 14.0 1366X768 PIXELES</item>
+        <item>LED 15.6 1366X768 PIXELES</item>
+        <item>LCD 14.0 1366X768 PIXELES</item>
+        <item>LCD 13.3 1366X768 PIXELES</item>
+        <item>LCD 15.6 1366X768 PIXELES</item>
+        <item>LED 15.6 1920X1080 PIXELES</item>
+        <item>LED 12.5 1366X768 PIXELES</item>
+        <item>LCD 15.6 1920X1080 PIXELES</item>
+        <item>LED 14.0 1920X1080 PIXELES</item>
+        <item>LCD 14.0 1920 X 1080 PIXELES</item>
+        <item>LCD 12.5 1366X768 PIXELES</item>
+        <item>LED TACTIL 12.0 1920X1280 PIXELES</item>
+        <item>LED TACTIL 13.3 1920X1080 PIXELES</item>
+        <item>LED TACTIL 14.0 2560X1440 PIXELES</item>
+        <item>LED 13.3 1920X1080 PIXELES</item>
+        <item>LED TACTIL 12.0 1920X1080 PIXELES</item>
+        <item>LCD TACTIL 12.3 2736 X 1824 PIXELES</item>
+        <item>LED TACTIL 14.0 1920X1080 PIXELES</item>
+        <item>LED TACTIL 15.6 1366X768 PIXELES</item>
+        <item>LCD 14.0 1366X720 PIXELES</item>
+        <item>LED 17.3 1600X900 PIXELES</item>
+        <item>LCD 14.0 1920X1080 PIXELES</item>
+        <item>LED 15.6 3840X2160 PIXELES</item>
+        <item>LED 17.3 1920X1080 PIXELES</item>
+        <item>LED 17.3 3840X2160 PIXELES</item>
+        <item>LCD TACTIL 8.0 800X1280 PIXELES</item>
+
+    </string-array>
+    <string-array name="Sis_op">
+        <item>FREEDOS 2.0 ESP</item>
+        <item>WINDOWS 10 HOME 64 BITS ESP</item>
+        <item>WINDOWS 10 HOME SL 64 BITS ESP</item>
+        <item>WINDOWS 10 PRO 64 BITS ESP</item>
+        <item>NO INCLUIDO</item>
+        <item>WINDOWS 8.1 PRO 64 BITS ESP</item>
+        <item>FREEDOS 2.0</item>
+        <item>ANDROID 6.0 MARSHMALLOW 64 BITS ESP</item>
+    </string-array>
+    <string-array name="Batery">
+        <item>LI-PO 4 CELDAS</item>
+        <item>LI-ION 4 CELDAS</item>
+        <item>LI-ION 3 CELDAS</item>
+        <item>LI-PO 3 CELDAS</item>
+        <item>LI-ION 2 CELDAS</item>
+        <item>LI-ION 6 CELDAS</item>
+        <item>LI-PO 6 CELDAS</item>
+        <item>LI-ION 7 CELDAS</item>
+        <item>LI-PO 9 CELDAS</item>
+        <item>LI-ION 1 CELDA</item>
+
+    </string-array>
+    <string-array name="Peso">
+        <item>1.85 kg</item>
+        <item>1.86 kg</item>
+        <item>1.64 kg</item>
+        <item>2.04 kg</item>
+        <item>1.63 kg</item>
+        <item>1.49 kg</item>
+        <item>2.02 kg</item>
+        <item>1.48 kg</item>
+        <item>1.76 kg</item>
+        <item>1.95 kg</item>
+        <item>2.10 kg</item>
+        <item>1.60 kg</item>
+        <item>2.31 kg</item>
+        <item>1.90 kg</item>
+        <item>1.26 kg</item>
+        <item>1.70 kg</item>
+        <item>2.18 kg</item>
+        <item>1.87 kg</item>
+        <item>1.84 kg</item>
+        <item>1.36 kg</item>
+        <item>2.00 kg</item>
+        <item>1.93 kg</item>
+        <item>2.30 kg</item>
+        <item>1.43 kg</item>
+        <item>2.38 kg</item>
+        <item>1.20 kg</item>
+        <item>1.13 kg</item>
+        <item>1.28 kg</item>
+        <item>1.54 kg</item>
+        <item>1.65 kg</item>
+        <item>1.16 kg</item>
+        <item>1.96 kg</item>
+        <item>1.32 kg</item>
+        <item>1.97 kg</item>
+        <item>0.803 kg</item>
+        <item>1.37 kg</item>
+        <item>2.67 kg</item>
+        <item>1.42 kg</item>
+        <item>1.89 kg</item>
+        <item>3.14 kg</item>
+        <item>2.60 kg</item>
+        <item>2.09 kg</item>
+        <item>0.39 kg</item>
+
+    </string-array>
+    <string-array name="Garant">
+        <item>12 MESES CARRY-IN</item>
+        <item>12 MESES</item>
+        <item>36 MESES</item>
+        <item>48 MESES</item>
+        <item>60 MESES</item>
+        <item>24 MESES</item>
+        <item>36 MESES CARRY-IN</item>
+        <item>36 MESES ON-SITE</item>
+
+
+    </string-array>
+</resources>
